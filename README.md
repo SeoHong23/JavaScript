@@ -94,16 +94,19 @@
 
 
 <ul style="font-size: 1.2em; line-height: 1.6;">
-  <li><b>JavaScript:</b> 브라우저와 Node.js 환경에서 사용되는 프로그래밍 언어</li>
+  <li><b>JavaScript:</b> 브라우저와 Node.js 환경에서 사용되는 프로그래밍 언어</li><br>
   
   
-  <li><b>HTML5:</b> 웹 페이지 구조 설계</li> <li><b>CSS3:</b> 스타일링과 레이아웃</li> 
+  <li><b>HTML5:</b> 웹 페이지 구조 설계</li> <br>
+
+  
+  <li><b>CSS3:</b> 스타일링과 레이아웃</li> <br>
   
   
-  <li><b>DOM API:</b> 문서 객체 모델을 사용한 동적 HTML 조작</li> 
+  <li><b>DOM API:</b> 문서 객체 모델을 사용한 동적 HTML 조작</li> <br>
   
   
-  <li><b>Fetch API 및 Promise:</b> 비동기 데이터 처리</li> 
+  <li><b>Fetch API 및 Promise:</b> 비동기 데이터 처리</li> <br>
   
 </ul>
 
