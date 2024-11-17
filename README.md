@@ -24,70 +24,48 @@
   
   ├── ch01/ # JavaScript 기본 학습
   
-  
   │ └── hello.html
-  
+
   ├── ch02/ # JavaScript 기초 문법 
   
-  
   │ ├── 1.변수.html 
-  
   │ ├── 2.연산자.html
-  
   │ ├── 3.조건문.html 
-  
   │ └── 4.반복문.html
   
   ├── ch03/ # 함수와 배열
-  
-  
+   
   │ ├── 1.배열.html
-  
   │ ├── 2.함수.html 
-  
   │ └── 3.내장함수.html
 
-
   ├── ch04/ # 객체와 브라우저 객체 모델
-
   
   │ ├── js/
-  
   │ │ └── Account.js
-  
   │ ├── 1.객체.html
-  
   │ ├── 2.내장객체.html
-  
   │ ├── 3.문서객체.html
-  
   │ └── 4.브라우저객체.html
+
   
   ├── ch05/ # 이벤트 처리 
 
   
-  │ ├── 1.이벤트.html
-  
+  │ ├── 1.이벤트.html 
   │ ├── 2.이벤트 종류.html
-  
   │ ├── 3.이벤트 객체.html
-  
   │ └── 4.이벤트 전파.html
+
   
   ├── ch06/ # 비동기 처리 
   
-  
   │ ├── 1.비동기처리.html
-  
   │ ├── 2.Promise.html
-  
   │ └── 3.JSON.html
   
   ├── todoApp/ # 간단한 To-Do List 프로젝트
-
-  
   ├── index.html # 메인 인덱스 파일 
-  
   └── README.md # 프로젝트 설명 파일 </pre>
   
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">🛠️ 사용한 기술</h2>
