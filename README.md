@@ -93,6 +93,7 @@
   
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">🛠️ 사용한 기술</h2>
 
+
 <ul style="font-size: 1.2em; line-height: 1.6;"> <li><b>JavaScript:</b> 브라우저와 Node.js 환경에서 사용되는 프로그래밍 언어</li>
   
   <li><b>HTML5:</b> 웹 페이지 구조 설계</li> <li><b>CSS3:</b> 스타일링과 레이아웃</li> 
